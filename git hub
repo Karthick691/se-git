@@ -1,0 +1,6 @@
+git clone (GitHub link).
+cd (folder name)
+git add (file name)
+git commit -m "duf"
+git push origin
+git pull
